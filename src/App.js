@@ -5,7 +5,7 @@ import Sidebar from "./components/sidebar/Sidebar";
 import Topbar from "./components/topbar/Topbar";
 import Home from "./pages/home/Home";
 import CustomerList from "./pages/customerList/CustomerList";
-import './app.css';
+import './App.css';
 import Customer from "./pages/customer/Customer";
 import NewCustomer from "./pages/newCustomer/NewCustomer";
 import Productlist from "./pages/productlist/Productlist";
